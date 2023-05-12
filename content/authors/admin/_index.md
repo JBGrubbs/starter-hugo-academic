@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Joshua B. Grubbs, Ph.D.
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Joshua
+last_name: Grubbs
 
 # Status emoji
 status:
@@ -14,34 +14,38 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Scientist, Professor, Speaker
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: University of New Mexico
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include behavioral addiction, morality, and personality.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Compulsive Sexual Behavior Disorder
+  - Sex Addiction
+  - Gambling Disorder
+  - Gambling Addiction
+  - Problematic Pornography Use
+  - Morality and Self-Perception
+  - Personality
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: APA Accredited Predoctoral Internship
+      institution: VA Northeast Ohio
+      year: 2016
+    - course: PhD in Psychology
+      institution: Case Western Reserve University
+      year: 2016
+    - course: PhD in Psychology
+      institution: Case Western Reserve University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,7 +57,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/joshuagrubbsphd
     label: Follow me on Twitter
     display:
       header: true
@@ -65,7 +69,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link:https://www.linkedin.com/in/joshua-grubbs-a3aa05267?original_referer=https%3A%2F%2Fwww.google.com%2F
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +84,11 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently an associate professor in the PCSAS Accredited Clinical Science Ph.D. program in the Department of Psychlogy at the University of New Mexico. I am also an investigator in the Center for Alcohol, Substance use, And Addiction (CASAA) at the University of New Mexico.
+
+My research (and the research of the BAAD lab) is primarily concerned with the scientific study of addiction, personality, and morality (particularly as it relates to addiction and personality).
+
+The largest portion of my current research program is concerned with addiction. I am particularly interested in topics related to behavioral addictions or compulsive behavior patterns. My specific interests in these domains are related to the social construction of addiction. I'm also interested in the social and structural factors that shape self-perceptions of potentially addictive behaviors. Ultimately, I want to understand how self-reported beliefs about addiction influence presentation of symptoms, which, in turn, influence diagnosis, classification, and treatment of addictive behaviors. I have past and ongoing projects related to pornography use, compulsive sexual behavior more broadly, and excessive gambling behaviors.
+
+In addition to these domains, I am also interested promoting replicability, reproducibility, and transparency in the scientific process. I strive to conduct my research in accordance with current standards of transparency and openness, and I encourage my students to do the same. You can find more information about my current projects at my Open Science Framework page  and a complete list of my publications at my Google Scholar page.
 {style="text-align: justify;"}
