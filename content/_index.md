@@ -52,11 +52,11 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Associate Professor
-          company: Bowling Green State University
+        - title: 
+          company:
           company_url: ''
-          company_logo: org-x
-          location: Ohio
+          company_logo:
+          location:
           date_start:''
           date_end:''
           description: :
