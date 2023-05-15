@@ -52,15 +52,6 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: 
-          company:
-          company_url: ''
-          company_logo:
-          location:
-          date_start:''
-          date_end:''
-          description: :
-      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
