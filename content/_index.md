@@ -132,15 +132,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-  - active: false
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
   - active: false
     id: featured
@@ -179,12 +170,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-  - active: false
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
