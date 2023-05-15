@@ -75,10 +75,10 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://drive.google.com/file/d/1dQ2Dm3x101tmrLHnL5HYJ2wvw5QzhUW3/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'drjosh@joshuagrubbsphd.com'
+email: 'joshuagrubbsphd@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
