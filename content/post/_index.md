@@ -1,5 +1,6 @@
 ---
 title: Posts
+active: false
 cms_exclude: true
 
 # View.
