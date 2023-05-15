@@ -16,14 +16,14 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 
+          description: 90%
           icon: r-project
           icon_pack: fab
         - name: Statistics
-          description: 
+          description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: 
+        - name: Photography
           description: 10%
           icon: camera-retro
           icon_pack: fas
@@ -39,12 +39,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Associate Professor
-          company: University of New Mexico
+        - title: CEO
+          company: GenCoin
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2023-08-01'
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -52,14 +52,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Associate Professor
-          company: Bowling Green State University
+        - title: Professor of Semiconductor Physics
+          company: University X
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-08-01'
-          date_end: '2023-07-31'
-          description: 
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -75,29 +75,29 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 
+        - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: ''
+          date_start: '2021-01-25'
           description: ''
-          organization: 
-          organization_url: 
+          organization: Coursera
+          organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
-        - certificate_url: 
+        - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: ''
-          description: 
-          organization: 
-          organization_url: h
-          title: 
-          url: 
-        - certificate_url: 
-          date_end: ''
-          date_start: ''
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          organization: edX
+          organization_url: https://www.edx.org
+          title: Blockchain Fundamentals
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
           description: ''
-          organization: 
-          organization_url: 
-          title: ''
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in R'
           url: ''
     design:
       columns: '2'
@@ -143,12 +143,12 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: 
-          tag: ''
-        - name: 
-          tag: 
-        - name: 
-          tag: 
+        - name: All
+          tag: '*'
+        - name: Deep Learning
+          tag: Deep Learning
+        - name: Other
+          tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -247,7 +247,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: true
+          captcha: false
     design:
       columns: '2'
 ---
