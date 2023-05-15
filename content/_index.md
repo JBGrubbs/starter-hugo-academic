@@ -57,8 +57,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: Ohio
-          date_start: '2016-08-01'
-          date_end:'2023-07-31'
+          date_start:''
+          date_end:''
           description: :
       columns: '2'
   - block: accomplishments
