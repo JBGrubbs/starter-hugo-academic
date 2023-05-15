@@ -77,6 +77,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+  - active: false
     id: posts
     content:
       title: Recent Posts
@@ -104,6 +105,7 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
+  - active: false
     id: projects
     content:
       title: Projects
@@ -131,6 +133,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+  - active: false
     content:
       title: Gallery
       subtitle: ''
@@ -139,6 +142,7 @@ sections:
     design:
       columns: '1'
   - block: collection
+  - active: false
     id: featured
     content:
       title: Featured Publications
@@ -150,6 +154,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+  - active: false
     content:
       title: Recent Publications
       text: |-
@@ -164,6 +169,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+  - active: false
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -174,6 +180,7 @@ sections:
       columns: '2'
       view: compact
   - block: tag_cloud
+  - active: false
     content:
       title: Popular Topics
     design:
