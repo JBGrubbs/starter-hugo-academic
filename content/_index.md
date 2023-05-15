@@ -203,17 +203,6 @@ sections:
     design:
       columns: '2'
   - block: contact
-    id: contact
-    content:
-      title: Contact
-      email: joshuagrubbsphd@gmail.com
-      phone: 
-      appointment_url: ''
-           contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/JoshuaGrubbsPhD'
 
       # Automatically link email and phone or display as text?
       autolink: true
