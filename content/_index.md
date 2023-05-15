@@ -30,12 +30,6 @@ sections:
           location: New Mexico
           date_start: '2023-08-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
   - block: accomplishments
   - active: false
     content:
