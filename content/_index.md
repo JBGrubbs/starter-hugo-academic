@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Joshua B. Grubbs, Ph.D.
 date: 2022-10-24
 type: landing
 
