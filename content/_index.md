@@ -31,7 +31,7 @@ sections:
           date_start: '2023-08-01'
           date_end: ''
   - block: accomplishments
-  - active: false
+    active: false
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -71,7 +71,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-  - active: false
+    active: false
     id: posts
     content:
       title: Recent Posts
@@ -99,7 +99,7 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-  - active: false
+    active: false
     id: projects
     content:
       title: Projects
@@ -154,7 +154,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-  - active: false
+    active: false
     id: talks
     content:
       title: Recent & Upcoming Talks
