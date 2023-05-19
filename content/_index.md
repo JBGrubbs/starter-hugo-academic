@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: Joshua B. Grubbs, Ph.D.
-date: 2022-10-24
+date: 2023-05-20
 type: landing
 
 sections:
@@ -31,6 +31,7 @@ sections:
           date_start: '2023-08-01'
           date_end: ''
   - block: accomplishments
+  - draft: true
     active: false
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
