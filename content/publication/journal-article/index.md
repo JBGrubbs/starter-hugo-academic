@@ -1,13 +1,14 @@
 ---
-title: "An example journal article"
+title: "Moral incongruence and addiction: A registered report"
 authors:
 - admin
-- Robert Ford
+- Christopher G. Floyd
+- Kaelyn R. Griffin
+- Todd L. Jennings
+- Shane W. Kraus
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2022-11-01T00:00:00Z"
+doi: "10.1037/adb0000876"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,23 +20,26 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Psychology of Addictive Behaviors, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: OBJECTIVE: Diagnostic guidelines for compulsive sexual behavior disorder note that moral distress related to sexual behavior is not sufficient to receive the diagnosis. Recent work has questioned the uniqueness of moral distress in predicting self-reported feelings of sexual addiction, demonstrating that other so-called addictive behaviors (e.g., gaming and internet use) are well-predicted by moral disapproval of those behaviors. The present work tested if moral incongruence (the interaction of behavioral frequency and moral disapproval of a behavior) is uniquely related to sexual behavior, or if it generalizes to other addictions as well.
+METHOD: This work used a large sample (N = 4,363) involving a representative sample of the U.S. population (n = 2,806) and a sample of sports-wagering individuals in the U.S. (n = 1,557). Interactions between moral disapproval and behavioral frequency were tested for several behaviors (i.e., pornography use, gambling, and several substances).
+RESULTS: The interaction of behavioral frequency and behavioral disapproval (i.e., moral incongruence) predicted self-reported feelings of addiction to pornography and gambling. Moral incongruence was consistently unrelated to self-reported feelings of addiction to tobacco, illicit substances, and prescription drugs. Results regarding alcohol and marijuana were inconclusive.
+CONCLUSIONS: Moral incongruence is clearly a salient factor in understanding compulsive sexual behavior, and it appears to also be salient to gambling disorder. Though moral incongruence does not seem relevant to some substances (i.e., nicotine, prescription drug misuse, or illicit drug use), further research is needed regarding the effect of moral incongruence on self-reported feelings of addiction to alcohol and marijuana. (PsycInfo Database Record (c) 2022 APA, all rights reserved).
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The new diagnosis of compulsive sexual behavior disorder in the 11th edition of the International Classification of Diseases specifically notes that distress related to moral objections about sexual behavior should not be taken as a symptom of the disorder. The present work demonstrates that this caveat is important, as moral beliefs about sexual behavior do influence whether people feel they are addicted to sexual behaviors. However, the present study shows that these moral beliefs also influence feelings of addiction to gambling and, potentially, other addictive behaviors.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: ''
+url_code: '10.1037/adb0000876'
 url_dataset: ''
 url_poster: ''
 url_project: ''
