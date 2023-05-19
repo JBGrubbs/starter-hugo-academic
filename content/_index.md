@@ -24,7 +24,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Associate Professor and Investigator
-          company: Center for Alcohol, Substance use, And Addiction (CASAA), University of New Mexico
+          company: Center on Alcohol, Substance use, And Addiction (CASAA), University of New Mexico
           company_url: 'https://casaa.unm.edu'
           company_logo: 
           location: New Mexico
