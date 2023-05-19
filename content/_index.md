@@ -32,7 +32,6 @@ sections:
           date_end: ''
   - block: accomplishments
     active: false
-    draft: true
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
