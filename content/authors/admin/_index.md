@@ -38,7 +38,7 @@ interests:
 education:
   courses:
     - course: APA Accredited Predoctoral Internship
-      institution: VA Northeast Ohio
+      institution: VA Northeast Ohio Healthcare System
       year: 2016
     - course: PhD in Psychology
       institution: Case Western Reserve University
