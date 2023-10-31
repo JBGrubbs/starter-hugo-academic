@@ -8,7 +8,7 @@ tags:
 date: '2023'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+# external_link: ''
 
 image:
   caption: 
@@ -29,7 +29,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides = ""
 ---
 
 The primary purpose of the GOVET project is to expand the systematic study of gambling disorder by leveraging the five decade history of the Gambling Treatment Program at the Louis Stokes Cleveland Department of Veteran Affairs Medical Center, under the leadership of Heather Chapman, Ph.D. 
