@@ -2,7 +2,9 @@
 title: Gambling Outcomes in Veterans
 summary: A multi-year study of how gambling is impacting the lives of veterans.
 tags:
-  - Deep Learning
+  - Veterans
+  - Gambling
+  - Trauma
 date: '2023'
 
 # Optional external URL for project (replaces project detail page).
