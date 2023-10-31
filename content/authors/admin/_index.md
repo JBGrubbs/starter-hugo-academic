@@ -75,7 +75,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1ot5RlQyAOs01xmeyAkf_q9vpMeCyiEIQ/view?usp=sharing
+    link: https://drive.google.com/open?id=1ot5RlQyAOs01xmeyAkf_q9vpMeCyiEIQ&usp=drive_fs
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'joshuagrubbsphd@gmail.com'
