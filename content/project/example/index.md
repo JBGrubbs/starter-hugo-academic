@@ -1,4 +1,3 @@
-active: false
 ---
 title: Gambling Outcomes in Veterans
 summary: A multi-year study of how gambling is impacting the lives of veterans.
