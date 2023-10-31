@@ -1,12 +1,12 @@
-title: 
-summary: 
-tags:
-date: 
+# title: 
+# summary: 
+# tags:
+# date: 
 
 # Optional external URL for project (replaces project detail page).
 
-external_link: 
-image:
-  caption: 
-  focal_point: Smart
+# external_link: 
+# image:
+#  caption: 
+#  focal_point: Smart
 ---
