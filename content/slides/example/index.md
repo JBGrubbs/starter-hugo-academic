@@ -1,5 +1,6 @@
-active: false
 ---
+active: false
+
 title: Slides
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
