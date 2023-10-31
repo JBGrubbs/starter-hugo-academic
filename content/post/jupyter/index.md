@@ -1,3 +1,4 @@
+Active: False
 ---
 active: false
 title: Display Jupyter Notebooks with Academic
