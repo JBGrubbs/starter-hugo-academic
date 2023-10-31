@@ -16,16 +16,16 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    local_business_type: 'Joshua B. Grubbs, Ph.D.'
+    org_name: 'Joshua B. Grubbs, Ph.D.'
+    description: 'Joshua B. Grubbs, Ph.D..'
+    twitter: 'Joshua B. Grubbs, Ph.D.'
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
+    google_analytics: 'Joshua B. Grubbs, Ph.D.'
+    baidu_tongji: 'Joshua B. Grubbs, Ph.D.'
   verification:
-    google: ''
-    baidu: ''
+    google: 'Joshua B. Grubbs, Ph.D.'
+    baidu: 'Joshua B. Grubbs, Ph.D.'
 
 # Site header
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2023} Joshua B. Grubbs, Ph.D. This work is licensed under creative commons'
     license:
       enable: true
       allow_derivatives: false
