@@ -1,5 +1,6 @@
-Active: False
 ---
+draft: true
+active: false
 title: Recent & Upcoming Talks
 active: false
 cms_exclude: true
