@@ -1,5 +1,6 @@
-active: false
 ---
+draft: true
+active: False
 title: Posts
 active: false
 cms_exclude: true
