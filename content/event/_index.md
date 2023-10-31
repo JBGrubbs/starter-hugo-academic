@@ -1,3 +1,4 @@
+Active: False
 ---
 title: Recent & Upcoming Talks
 active: false
