@@ -59,7 +59,7 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    active: false
+    active: true
     id: projects
     content:
       title: Projects
