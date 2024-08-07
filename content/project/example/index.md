@@ -15,10 +15,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: 
+  - icon: <i class="fa-solid fa-dice"></i>
     icon_pack: 
     name: 
-    url: 
+    url: <script src="https://kit.fontawesome.com/040fdc414f.js" crossorigin="anonymous"></script>
 url_code: ''
 url_pdf: ''
 url_slides: ''
