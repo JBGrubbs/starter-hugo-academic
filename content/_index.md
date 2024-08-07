@@ -76,10 +76,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Gambling
+          tag: Gambling, Sports Betting, Sports Gambling 
+        - name: Compulsive Sexual Behavior
+          tag: Compulsive Sexual Behavior, Pornography, Moral Incongruence
+        - name: Veteran's Health
+          tag: Military, Veterans, Drinking in Veterans, Alcohol Use in Veterans
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
