@@ -81,7 +81,7 @@ sections:
         - name: Compulsive Sexual Behavior
           tag: Compulsive Sexual Behavior, Pornography, Moral Incongruence
         - name: Veteran's Health
-          tag: Military, Veterans, Drinking in Veterans, Alcohol Use in Veterans
+          tag: Military, veterans, military, Veterans, Drinking in Veterans, Alcohol Use in Veterans
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
