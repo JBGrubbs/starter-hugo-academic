@@ -55,8 +55,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'joshuagrubbsphd@gmail.com'
-  - icon: e671
-    icon_pack: brands
+  - icon: bluesky
+    icon_pack: fab
     link: https://bsky.app/profile/joshuagrubbsphd.bsky.social
     label: Follow me on BlueSky
     display:
@@ -75,7 +75,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1DtRjvR2qUDBDRKr0gj4bA89hv8o69mRV/view?usp=sharing
+    link: https://drive.google.com/open?id=1FHGTXObvEooYboxzVN7rRlxbRhQlTk4p&usp=drive_fs
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'joshuagrubbsphd@gmail.com'
