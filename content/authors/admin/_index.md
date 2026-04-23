@@ -55,8 +55,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'joshuagrubbsphd@gmail.com'
-  - icon: bluesky
-    icon_pack: fab
+  - icon: e671
+    icon_pack: brands
     link: https://bsky.app/profile/joshuagrubbsphd.bsky.social
     label: Follow me on BlueSky
     display:
