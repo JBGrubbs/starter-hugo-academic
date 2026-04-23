@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Scientist, Professor, Speaker
+role: Scientist, Professor, Speaker, Trainer, Expert Witness
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -54,11 +54,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: 'joshuagrubbsphd@gmail.com'
+  - icon: bluesky
     icon_pack: fab
-    link: https://twitter.com/joshuagrubbsphd
-    label: Follow me on Twitter
+    link: https://bsky.app/profile/joshuagrubbsphd.bsky.social
+    label: Follow me on BlueSky
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -88,9 +88,9 @@ I am currently an associate professor in the PCSAS Accredited Clinical Science P
 
 My research (and the research of the BAAAD Lab) is primarily concerned with the scientific study of addiction, personality, and morality (particularly as it relates to addiction and personality).
 
-The largest portion of my current research program is concerned with addiction. I am particularly interested in topics related to behavioral addictions or compulsive behavior patterns. My specific interests in these domains are related to the social construction of addiction and understanding why people think they have addictions, what society has to say about addiction, and how we can help people with addictions by understanding the social contexts of their struggles. I'm also interested in the social and structural factors that shape self-perceptions of potentially addictive behaviors. Ultimately, I want to understand how self-reported beliefs about addiction influence presentation of symptoms, which, in turn, influence diagnosis, classification, and treatment of addictive behaviors. I have past and ongoing projects related to pornography use, compulsive sexual behavior more broadly, and excessive gambling behaviors.
+The largest portion of my current research program is concerned with addiction. I am particularly interested in topics related to behavioral addictions or compulsive behavior patterns. My specific interests in these domains are primarily related to compulsive sexual behaviors (i.e., sexual addiction) and gambling disorder (i.e., gambling addiction). Much of my expertise in this domain is related to the social construction of addiction and understanding why people think they have addictions, what society has to say about addiction, and how we can help people with addictions by understanding the social contexts of their struggles. I'm also interested in the social and structural factors that shape self-perceptions of potentially addictive behaviors. Ultimately, I want to understand how self-reported beliefs about addiction influence presentation of symptoms, which, in turn, influence diagnosis, classification, and treatment of addictive behaviors. I have past and ongoing projects related to pornography use, compulsive sexual behavior more broadly, and excessive gambling behaviors.
 
 I am also interested promoting replicability, reproducibility, and transparency in the scientific process. I strive to conduct my research in accordance with current standards of transparency and openness, and I encourage my students to do the same. You can find more information about my current projects at my Open Science Framework page  and a complete list of my publications at my Google Scholar page.  
 
-Given the above expertise and experience, I am available for speaking engagements, , continuing education seminars, trainings, consultation services, and expert witness services. For inquiries regarding scheduling and fees associated with these various services, please contact me through the linked email at the bottom of this page.  
+Given the above expertise and experience, I am available for speaking engagements, continuing education seminars, trainings, consultation services, and expert witness services. I have extensive experience in each of the above domains, providing 12+ trainings annually on topics related to behavioral addictions and regularly engaging in professional consultation and expert witness testimony. For inquiries regarding scheduling and fees associated with these various services, please contact me through the linked email at the bottom of this page.  
 {style="text-align: justify;"}
