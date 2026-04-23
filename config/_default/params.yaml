@@ -8,8 +8,17 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
-  font_size: L
+  font: serif
+  font_size: M
+  palette:
+    base: '#F5F7FA'
+    surface: '#FFFFFF'
+    primary: '#2C3E5A'
+    secondary: '#5C6D82'
+    accent: '#7F8FA5'
+    muted: '#A0B0C0'
+    text: '#1E2A3B'
+    border: '#D8E1E8'
 
 # SEO
 
