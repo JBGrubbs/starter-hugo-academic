@@ -130,20 +130,12 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text:
+      subtitle: Get in touch
+      text: 'Please reach out using the email link below for inquiries regarding speaking engagements, trainings, consultation services, or expert witness testimony.'
       # Contact (add or remove contact options as necessary)
       email: JoshuaGrubbsPhD@gmail.com
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
